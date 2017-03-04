@@ -19,7 +19,7 @@ $ python setup.py install
 
 Next run the Casper simulator!
 ```
-$ source ./tmux.sh
+$ ./tmux.sh
 ```
 
 You're done!
