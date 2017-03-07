@@ -2,7 +2,7 @@ gevent==1.1.0
 leveldb
 click
 wheel
-rlp>=0.4.4
+rlp==0.4.6
 devp2p>=0.8.0
 ethereum>=1.6.0
 web3>=3.7.2
